@@ -36,5 +36,5 @@ total = sum(numbers)
 average = total / 5
 
 # แสดงผลลัพธ์ 
-print (f' ผลรวมของเลขทั้ง 5 คือ : ({total}')
-print (f' ผลรวมของเลขทั้ง 5 คือ : ({average:.2f}')
+print (f' ผลรวมของเลขทั้ง 5 คือ : {total}')
+print (f' ผลรวมของเลขทั้ง 5 คือ : {average:.2f}')
